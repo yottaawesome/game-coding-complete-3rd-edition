@@ -11,3 +11,7 @@ Refer to the [book's provided instructions](https://github.com/yottaawesome/game
 ## Issues
 
 Unfortunately, the code is really dated and no longer compiles with modern C++ compilers. In particular, the Boost files are badly outdated. I intend to go through at some point and update the code and dependencies, however, it's not high on my priority list.
+
+## Legal
+
+All code is :copyright: Copyright 2009 Michael L. McShaffry.
